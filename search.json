@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Building a Wine Recommendation System",
     "section": "",
-    "text": "Scope\nThe Goal is to have two interactive ways to recommen a wine.\n\nBy similarity with other wines.\nBy collaboration filtering.\n\nand something else"
+    "text": "Theory behind the item-item recommendation, developed for Amazon item-item recommendation"
   },
   {
     "objectID": "item-item-recommendation.html",
