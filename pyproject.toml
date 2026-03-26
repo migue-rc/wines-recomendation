@@ -1,10 +1,11 @@
 [project]
 name = "wines-recomendation"
-version = "0.1.0"
-description = "Add your description here"
+version = "1.0.0"
+description = "Exploration of differents types of recommendation systems."
 requires-python = ">=3.11"
 dependencies = [
     "ipykernel>=7.2.0",
+    "jupyter>=1.1.1",
     "nbformat>=5.10.4",
     "pandas>=3.0.1",
     "plotly>=6.6.0",

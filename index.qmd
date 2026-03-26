@@ -1,0 +1,10 @@
+---
+title: "Building a Wine Recommendation System"
+author: "Miguel R."
+date: today
+categories: [RecSys]
+description: "Exploratory analysis of the possibility of building a wine recommendation system."
+---
+
+Theory behind the item-item recommendation, developed for Amazon
+[item-item recommendation](./item-item-recommendation.html)
